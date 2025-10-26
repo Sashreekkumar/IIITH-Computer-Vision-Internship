@@ -24,15 +24,11 @@ This section serves as a chronological index of all tasks. Click on any task to 
 
 ### Task 1: Induction: Setting up environment and performing simple object detection and segmentation using YOLO models
 #### Date: 20-10-2025
+- [task_1.md](task_1/task_1.md)
+- [Bus Result Image](task_1/results_bus.jpg)
+- [task1.py](task_1/task1.py)
+- [YOLO 11 Nano Weights](task_1/yolo11n.pt) and [YOLO 11 Nano- Segmentation Weights](task_1/yolo11n-seg.pt)
 
-<details>
-<summary>Task 1</summary>
-
-Your hidden content goes here.  
-You can include **text**, code blocks, images, or lists.
-
-```python
-print("Hello, world!")
 
 
 ---
