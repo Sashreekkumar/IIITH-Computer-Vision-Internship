@@ -4,3 +4,4 @@
  Setting up environment and performing simple object detection and segmentation using YOLO models.
 
 ## Output Obtained:
+![Output Image](results_bus.jpg)
