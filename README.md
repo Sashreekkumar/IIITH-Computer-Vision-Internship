@@ -42,7 +42,7 @@ This section serves as a chronological index of all tasks. Click on any task to 
 
 ### Task 3: Object Detection and Segmentation on Video using ffmpeg 
 #### Date: 28-10-2025
-- [task_4.md](task_3/task_3.md)
+- [task_3.md](task_3/task_3.md)
 - [video_object_detection.py](task_3/video_object_Detection.py)
 - [Input Video](task_3/input_video.mp4)
 - [Output Video](task_3/output_video.mp4)
