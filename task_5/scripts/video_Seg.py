@@ -80,26 +80,6 @@ def process_images_to_video(images_folder, model, output_video, fps=25, conf=0.2
     print(f"Total polyp detections: {total_polyps_detected}")
     print(f"Output video: {output_video}")
     
-    report_file = 'polyp_detection_report.txt'
-    with open(report_file, 'w') as f:
-        f.write("POLYP DETECTION REPORT\n")
-        f.write("="*50 + "\n\n")
-        f.write(f"Total frames: {len(image_files)}\n")
-        f.write(f"Frames with polyps: {len(frames_with_polyps)}\n")
-        f.write(f"Total detections: {total_polyps_detected}\n")
-        f.write(f"Detection rate: {len(frames_with_polyps)/len(image_files)*100:.2f}%\n\n")
-        f.write("Frames with polyps:\n")
-        f.write("-"*50 + "\n")
-        
-        for frame_num in frames_with_polyps:
-            timestamp = frame_num / fps
-            f.write(f"Frame {frame_num+1}: {timestamp:.2f}s - {image_files[frame_num]}\n")
-    
-    print(f"Detection report saved to: {report_file}")
-    print("="*50)
-    
-    return frames_with_polyps
-
 
 if __name__ == "__main__":
     frames_with_polyps = process_images_to_video(
@@ -110,5 +90,4 @@ if __name__ == "__main__":
         conf=conf_threshold
     )
     
-    print(f"\nVideo created successfully: {output_video}")
-    print(f"Review the annotated video to see polyp detections")
+    print(output_video)
