@@ -47,6 +47,15 @@ This section serves as a chronological index of all tasks. Click on any task to 
 - [Input Video](task_3/input_video.mp4)
 - [Output Video](task_3/output_video.mp4)
 
+### Task 5: Polyp Detection in Colonoscopy Videos
+#### Date: 14-12-2025
+- [task_5.md](task_5/task_5.md)
+- [dataset.py](task_5/scripts/dataset.py) : Script to convert into YOLO suitable supported dataset
+- [seg.py](task_5/scripts/seg.py) : Training YOLO Model
+- [video_seg.py](task_5/scripts/video_Seg.py) : Detecting Polyps in colonoscopy videos
+ 
+For training configuration, inputs, outputs, complete pipeline and metrics see **[task_5.md](./project.md)**.
+
 ---
 
 
