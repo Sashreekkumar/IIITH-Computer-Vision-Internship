@@ -47,6 +47,15 @@ This section serves as a chronological index of all tasks. Click on any task to 
 - [Input Video](task_3/input_video.mp4)
 - [Output Video](task_3/output_video.mp4)
 
+---
+
+### Task 4: Literature Review
+#### Data: 07-12-2025
+- [Kvasir-VQA: A Text-Image Pair GI Tract Dataset](task_4/Kvasir-VQA_%20A%20Text-Image%20Pair%20GI%20Tract%20Dataset)
+- [A Deep Learning-Based Framework for Retinal Disease Classification](task_4/healthcare-11-00212.pdf)
+
+---
+
 ### Task 5: Polyp Detection in Colonoscopy Videos
 #### Date: 14-12-2025
 - [task_5.md](task_5/task_5.md)

@@ -16,17 +16,17 @@ The metrics obtained from the the evaluation of the model are:
 ### Batch 1:
 | Prediction  | Labels |
 |----------|--------|
-| ![Alt text](runs/val_batch0_pred.jpg) | ![Alt text](runs/val_batch0_pred.jpg)  |
+| ![Alt text](runs/val_batch0_labels.jpg) | ![Alt text](runs/val_batch0_pred.jpg)  |
 
 ### Batch 2:
 | Prediction  | Labels |
 |----------|--------|
-| ![Alt text](runs/val_batch1_pred.jpg) | ![Alt text](runs/val_batch1_pred.jpg)  |
+| ![Alt text](runs/val_batch1_labels.jpg) | ![Alt text](runs/val_batch1_pred.jpg)  |
 
 ### Batch 3:
 | Prediction  | Labels |
 |----------|--------|
-| ![Alt text](runs/val_batch2_pred.jpg) | ![Alt text](runs/val_batch2_pred.jpg)  |
+| ![Alt text](runs/val_batch2_labels.jpg) | ![Alt text](runs/val_batch2_pred.jpg)  |
 
 ## Evaluation Metrics:
 

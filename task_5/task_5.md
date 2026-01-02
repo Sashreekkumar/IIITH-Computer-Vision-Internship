@@ -4,6 +4,10 @@ Polyp Detection in Colonoscopy Videos
 ## Objective: 
 Detecting Polyps from Colonoscopy Videos using YOLOv111n-seg
 
+## Datasets Used:
+1. https://arxiv.org/pdf/2409.01437
+2. https://www.kaggle.com/datasets/debeshjha1/polypgen-video-sequence
+
 ## Methodology:
 - Uses `yolo11n-seg.pt` model for object detection and segmentation. 
 - The Kvasir Dataset [1] was used to train the YOLO model. 
