@@ -53,6 +53,11 @@ This section serves as a chronological index of all tasks. Click on any task to 
 #### Data: 07-12-2025
 - [Kvasir-VQA: A Text-Image Pair GI Tract Dataset](task_4/Kvasir-VQA_%20A%20Text-Image%20Pair%20GI%20Tract%20Dataset)
 - [A Deep Learning-Based Framework for Retinal Disease Classification](task_4/healthcare-11-00212.pdf)
+- [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/pdf/1702.05747)
+- [Convolutional Neural Networks for Medical Image
+Analysis: Fine Tuning or Full Training?](https://arxiv.org/abs/1706.00712)
+
+Checkout [Summary on Deep Learning Application in Medical Image Analysis](task_4/task_4.md)
 
 ---
 
